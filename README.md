@@ -36,7 +36,10 @@ npm: 6.9.0
 composer create-project --prefer-dist laravel/laravel laravel-backend
 ## Banco de Dados
 phpMyadmin
+
 senha: 123456
+
 dabatabase: laravel
-db_username: laravael
+
+db_username: laravel
 
