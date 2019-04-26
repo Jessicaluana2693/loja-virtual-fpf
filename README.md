@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# LaravelBackend
+esse projeto foi gerado com o composer, através do comando: composer global require "laravel/installer"
+## Versão
+Laravel: 5.8
+composer: 1.8.5
+npm: 6.9.0
+## Run
+composer create-project --prefer-dist laravel/laravel laravel-backend
+## Banco de Dados
+phpMyadmin
+senha: 123456
+dabatabase: laravel
+db_username: laravael
+
